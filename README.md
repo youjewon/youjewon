@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <div>
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=088A29&text=welcome!&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?&height=150&type=Cylinder&color=000000&text=welcome!&fontColor=1CD649&animation=blinking&stroke=000000)
+
+  <br><br><br><br><br>
 </div>
 
 ``` c++
