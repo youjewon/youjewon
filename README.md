@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <div>
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=088A29&text=welcome!)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=088A29&text=welcome!&animation=twinkling)
 </div>
 
 ``` c++
@@ -46,7 +46,27 @@ void loop()
 }
 
 ```
-<img src="https://img.shields.io/badge/Arduino-#00878F?style=for-the-badge&logo=arduino&logoColor=black">
+
+
+
+
+
+<div align = "center">
+
+:mag: my stack :mag:
+<br>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
+<img src="https://img.shields.io/badge/Raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
+
+
+</div>
+
 
 
 
