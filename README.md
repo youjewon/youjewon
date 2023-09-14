@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   ![header](https://capsule-render.vercel.app/api?&height=150&type=Cylinder&color=000000&text=welcome!&fontColor=1CD649&animation=blinking&stroke=000000)
 
-  <br><br><br><br><br>
+  <br><br><br>
 </div>
 
 ``` c++
@@ -50,25 +50,23 @@ void loop()
 ```
 
 
-
-
-
 <div align = "center">
-
+<br>
 :mag: my stack :mag:
 <br>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=black">
 <img src="https://img.shields.io/badge/Raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=black">
+<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
-<br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
+<br>
+<br>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youjewon&show_icons=true&theme=radical)
 
 </div>
-
 
 
 
