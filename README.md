@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
 
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=768680&text=welcome!)
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=088A29&text=welcome!)
 </div>
 
 <!--
