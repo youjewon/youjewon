@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  birthday : 2000.03.13
  university & department : hansei university / computer engineering
  favorite thing : Green, embedded, IoT, ICT, Robot, food ....
- license : 정보처리기능사, 정보기기운기능사, 코딩지도사1급
+ license : 정보처리기사, 정보기기운용기능사, 코딩지도사1급
 
 etc : arduino      2017 ~
       esp32        2020 ~ 
@@ -70,9 +70,11 @@ void loop()
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black">
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/NodeRed-8F0000?style=for-the-badge&logo=Node-Red&logoColor=white">  
 <br>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
   
@@ -110,3 +112,6 @@ void loop()
 > 대학생활속에서 프로젝트 활동 이외 코딩교육 활동을 참여하거나, <br> 외부 부스운영활동으로 팀원,강사,학생,부모님등 다양한 사람들과 커뮤니케이션을 통해 소통능력을 쌓았고, <br>
   그로인해 내 의견에대한 적극적인 표현과 상대방의 요구에 대한 이해로 적절한 교점을 파악하여 활동을 이어가는 힘을 길러왔습니다!
 >> [활동사진 모음](https://github.com/youjewon/embedded-study/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%82%AC%EC%A7%84)
+>>
+## 자격증
+정보처리기사, 정보기기운용기능사, 코딩지도사1급
