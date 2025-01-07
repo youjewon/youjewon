@@ -122,3 +122,6 @@ void loop()
 >>
 ## 자격증
 정보처리기사, 정보기기운용기능사, 코딩지도사1급
+
+## 공부한 것들
+https://github.com/youjewon/youjewon/wiki
